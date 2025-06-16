@@ -59,3 +59,35 @@ There are a few other commands you'll need as well:
 - `gator feeds` - List all feeds
 - `gator follow <url>` - Follow a feed that already exists in the database
 - `gator unfollow <url>` - Unfollow a feed that already exists in the database
+
+## 🤝 Contributing
+
+Since this is a practice project, consider this section a bit of practice as well. :)
+That said, I’m always happy if someone out there in the vastness of the internet stumbles upon this repo!
+It’s a great chance for me to get some hands-on experience with pull requests and open source contributions.
+Who knows — maybe this even turns into a small, fun little community project. 😉
+
+### Clone the repo
+
+```bash
+git clone https://github.com/estreg/gator-hegstreg
+cd gator-hegstreg
+```
+
+### Build the project
+
+```bash
+go build
+```
+
+### Run the project
+
+```bash
+./gator-hegstreg
+```
+
+### Submit a pull request
+
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
+Since I’m still learning and GitHub isn’t quite my second home yet, it might take me a little while to respond to your request.
+Please don’t take it as a rejection — I’m just figuring things out as I go. 
