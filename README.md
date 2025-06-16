@@ -26,7 +26,7 @@ Create a `.gatorconfig.json` file in your home directory with the following stru
 
 Replace the values with your database connection string.
 
-## Usage
+## ▶️ Usage
 
 Create a new user:
 
