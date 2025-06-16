@@ -4,7 +4,9 @@
 I built this sort of multi-player command line tool (for aggregating RSS feeds and viewing the posts) with the help of boot.dev's guided course. So this is a pratice Project. To be honest, without the solution files, it would've taken significantly longer. But I do think I learned quite a bit, and I'll always be able to use this project as a reference. So, if you're looking to learn something with a project like this, I highly recommend boot.dev, even if the guidance was rather sparse, which was in the end a good thing.
 
 
-## Installation
+## Quick Start
+
+### Installation
 
 Make sure you have the latest [Go toolchain](https://golang.org/dl/) installed as well as a local Postgres database. You can then install `gator` with:
 
@@ -12,7 +14,7 @@ Make sure you have the latest [Go toolchain](https://golang.org/dl/) installed a
 go install ...
 ```
 
-## Config
+### Config
 
 Create a `.gatorconfig.json` file in your home directory with the following structure:
 
