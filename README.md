@@ -1,7 +1,7 @@
 # Gator
 
-## Disclaimer:
-Disclaimer: I built this sort of multi-player command line tool (for aggregating RSS feeds and viewing the posts) with the help of boot.dev's guided course. To be honest, without the solution files, it would've taken significantly longer. But I do think I learned quite a bit, and I'll always be able to use this project as a reference. So, if you're looking to learn something with a project like this, I highly recommend boot.dev, even if the guidance was rather sparse.
+## Disclaimer and Motivation:
+I built this sort of multi-player command line tool (for aggregating RSS feeds and viewing the posts) with the help of boot.dev's guided course. So this is a pratice Project. To be honest, without the solution files, it would've taken significantly longer. But I do think I learned quite a bit, and I'll always be able to use this project as a reference. So, if you're looking to learn something with a project like this, I highly recommend boot.dev, even if the guidance was rather sparse, which was in the end a good thing.
 
 
 ## Installation
