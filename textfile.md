@@ -1,1 +1,2 @@
-conncetion link "postgres://postgres:1511@localhost:5432/gator"
+// I'm using this file to save my connection link.
+// Don't forget to delete it!
